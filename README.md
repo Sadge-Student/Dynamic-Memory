@@ -13,4 +13,5 @@
 + Use separate .h and .cpp files for each of your classes.
 + Use a persistent game loop.
 + Output instructions and options to the player.
-+ You will upload five files.  Use the following names: card.h, card.cpp, deck.h, deck.cpp and main.cpp.
+
+You will upload five files.  Use the following names: card.h, card.cpp, deck.h, deck.cpp and main.cpp.
